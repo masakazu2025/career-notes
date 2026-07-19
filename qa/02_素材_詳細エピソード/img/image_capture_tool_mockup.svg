@@ -1,0 +1,39 @@
+<svg viewBox="0 0 420 360" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>画像自動採取ツールのUIモックアップ</title>
+<desc>開始・停止・ファイルクリア・設定の4操作のみのシンプルな画面イメージ</desc>
+
+<rect x="0" y="0" width="420" height="360" rx="8" fill="#f4f3ee" />
+<path d="M 0 8 A 8 8 0 0 1 8 0 L 412 0 A 8 8 0 0 1 420 8 L 420 34 L 0 34 Z" fill="#e6e4da" />
+<text x="16" y="22" font-family="Arial, sans-serif" font-size="13px" fill="#5f5e5a">画像自動採取ツール</text>
+<circle cx="380" cy="17" r="5" fill="#b4b2a9" />
+<circle cx="360" cy="17" r="5" fill="#b4b2a9" />
+<circle cx="340" cy="17" r="5" fill="#b4b2a9" />
+
+<rect x="16" y="50" width="388" height="80" rx="6" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<circle cx="34" cy="72" r="6" fill="#639922" />
+<text x="50" y="77" font-family="Arial, sans-serif" font-size="13px" fill="#2c2c2a">採取中</text>
+<text x="34" y="102" font-family="Arial, sans-serif" font-size="12px" fill="#5f5e5a">保存済み枚数：128枚</text>
+<text x="34" y="120" font-family="Arial, sans-serif" font-size="12px" fill="#5f5e5a">キャプチャ間隔：0.3秒</text>
+
+<rect x="16" y="146" width="180" height="46" rx="6" fill="#ffffff" stroke="#b4b2a9" stroke-width="0.5" />
+<text x="106" y="174" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle" fill="#2c2c2a">停止</text>
+
+<rect x="204" y="146" width="200" height="46" rx="6" fill="#85b7eb" />
+<text x="304" y="174" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle" fill="#042c53">開始</text>
+
+<rect x="16" y="202" width="180" height="40" rx="6" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="106" y="227" font-family="Arial, sans-serif" font-size="13px" text-anchor="middle" fill="#2c2c2a">ファイルクリア</text>
+
+<rect x="204" y="202" width="200" height="40" rx="6" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="304" y="227" font-family="Arial, sans-serif" font-size="13px" text-anchor="middle" fill="#2c2c2a">設定</text>
+
+<rect x="16" y="258" width="388" height="86" rx="6" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="28" y="278" font-family="Arial, sans-serif" font-size="12px" fill="#888780">設定</text>
+<text x="28" y="300" font-family="Arial, sans-serif" font-size="12px" fill="#5f5e5a">キャプチャ間隔（秒）</text>
+<rect x="240" y="288" width="60" height="22" rx="4" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="248" y="303" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">0.3</text>
+
+<text x="28" y="326" font-family="Arial, sans-serif" font-size="12px" fill="#5f5e5a">重複判定マスク領域</text>
+<rect x="240" y="314" width="140" height="22" rx="4" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="248" y="329" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">右上 時計表示部分</text>
+</svg>

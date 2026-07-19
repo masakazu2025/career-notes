@@ -1,0 +1,69 @@
+<svg viewBox="0 0 640 460" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>支払用シミュレータ支援ツールのUIモックアップ</title>
+<desc>tkinter製のxml編集ツール。左側に通信種別の一覧、右側にタグと値の編集テーブルを表示する画面イメージ</desc>
+
+<rect x="0" y="0" width="640" height="460" rx="8" fill="#f4f3ee" />
+<path d="M 0 8 A 8 8 0 0 1 8 0 L 632 0 A 8 8 0 0 1 640 8 L 640 34 L 0 34 Z" fill="#e6e4da" />
+<text x="16" y="22" font-family="Arial, sans-serif" font-size="13px" fill="#5f5e5a">支払用シミュレータ支援ツール</text>
+<circle cx="600" cy="17" r="5" fill="#b4b2a9" />
+<circle cx="580" cy="17" r="5" fill="#b4b2a9" />
+<circle cx="560" cy="17" r="5" fill="#b4b2a9" />
+
+<rect x="16" y="50" width="160" height="392" rx="6" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="28" y="72" font-family="Arial, sans-serif" font-size="12px" fill="#888780">通信種別</text>
+
+<rect x="24" y="86" width="144" height="30" rx="4" fill="#85b7eb" />
+<text x="34" y="105" font-family="Arial, sans-serif" font-size="13px" fill="#042c53">支払（オーソリ）</text>
+
+<rect x="24" y="122" width="144" height="30" rx="4" fill="transparent" />
+<text x="34" y="141" font-family="Arial, sans-serif" font-size="13px" fill="#5f5e5a">取消</text>
+
+<rect x="24" y="158" width="144" height="30" rx="4" fill="transparent" />
+<text x="34" y="177" font-family="Arial, sans-serif" font-size="13px" fill="#5f5e5a">売上確定</text>
+
+<rect x="24" y="194" width="144" height="30" rx="4" fill="transparent" />
+<text x="34" y="213" font-family="Arial, sans-serif" font-size="13px" fill="#5f5e5a">残高照会</text>
+
+<rect x="192" y="50" width="432" height="330" rx="6" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="204" y="72" font-family="Arial, sans-serif" font-size="12px" fill="#888780">応答値編集（オーソリ応答）</text>
+
+<rect x="204" y="84" width="408" height="26" fill="#f4f3ee" />
+<text x="212" y="101" font-family="Arial, sans-serif" font-size="12px" fill="#5f5e5a">項目名</text>
+<text x="380" y="101" font-family="Arial, sans-serif" font-size="12px" fill="#5f5e5a">値</text>
+
+<line x1="204" y1="110" x2="612" y2="110" stroke="#d3d1c7" />
+<text x="212" y="130" font-family="Arial, sans-serif" font-size="13px" fill="#2c2c2a">処理結果コード</text>
+<rect x="372" y="116" width="140" height="24" rx="4" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="380" y="132" font-family="Arial, sans-serif" font-size="13px" fill="#2c2c2a">00</text>
+
+<line x1="204" y1="146" x2="612" y2="146" stroke="#d3d1c7" />
+<text x="212" y="166" font-family="Arial, sans-serif" font-size="13px" fill="#2c2c2a">承認番号</text>
+<rect x="372" y="152" width="140" height="24" rx="4" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="380" y="168" font-family="Arial, sans-serif" font-size="13px" fill="#2c2c2a">123456</text>
+
+<line x1="204" y1="182" x2="612" y2="182" stroke="#d3d1c7" />
+<text x="212" y="202" font-family="Arial, sans-serif" font-size="13px" fill="#2c2c2a">取引金額</text>
+<rect x="372" y="188" width="140" height="24" rx="4" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="380" y="204" font-family="Arial, sans-serif" font-size="13px" fill="#2c2c2a">1000</text>
+
+<line x1="204" y1="218" x2="612" y2="218" stroke="#d3d1c7" />
+<text x="212" y="238" font-family="Arial, sans-serif" font-size="13px" fill="#2c2c2a">加盟店名（半角）</text>
+<rect x="372" y="224" width="140" height="24" rx="4" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="380" y="240" font-family="Arial, sans-serif" font-size="13px" fill="#2c2c2a">SAMPLE STORE</text>
+
+<line x1="204" y1="254" x2="612" y2="254" stroke="#d3d1c7" />
+<text x="212" y="274" font-family="Arial, sans-serif" font-size="13px" fill="#2c2c2a">エラー種別</text>
+<rect x="372" y="260" width="140" height="24" rx="4" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="380" y="276" font-family="Arial, sans-serif" font-size="13px" fill="#2c2c2a">なし</text>
+
+<rect x="204" y="296" width="408" height="72" rx="4" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="212" y="312" font-family="monospace" font-size="11px" fill="#888780">&lt;response&gt;&lt;code&gt;00&lt;/code&gt;&lt;approval&gt;123456&lt;/approval&gt;</text>
+<text x="212" y="328" font-family="monospace" font-size="11px" fill="#888780">&lt;amount&gt;1000&lt;/amount&gt;&lt;merchant&gt;SAMPLE STORE&lt;/merchant&gt;</text>
+<text x="212" y="344" font-family="monospace" font-size="11px" fill="#888780">&lt;error&gt;&lt;/error&gt;&lt;/response&gt;</text>
+
+<rect x="440" y="392" width="86" height="34" rx="6" fill="#ffffff" stroke="#b4b2a9" stroke-width="0.5" />
+<text x="483" y="414" font-family="Arial, sans-serif" font-size="13px" text-anchor="middle" fill="#2c2c2a">読込</text>
+
+<rect x="534" y="392" width="90" height="34" rx="6" fill="#85b7eb" />
+<text x="579" y="414" font-family="Arial, sans-serif" font-size="13px" text-anchor="middle" fill="#042c53">反映して保存</text>
+</svg>

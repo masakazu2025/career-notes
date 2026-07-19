@@ -1,0 +1,75 @@
+<svg viewBox="0 0 720 460" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>会員関連補助ツールのUIモックアップ</title>
+<desc>Mockoonのグローバル変数を切り替えるツール。エンドポイントごとに列を並べ、各列内の結果コードをダブルクリックで反映する、1画面で全APIを見渡せる画面イメージ</desc>
+
+<rect x="0" y="0" width="720" height="460" rx="8" fill="#f4f3ee" />
+<path d="M 0 8 A 8 8 0 0 1 8 0 L 712 0 A 8 8 0 0 1 720 8 L 720 34 L 0 34 Z" fill="#e6e4da" />
+<text x="16" y="22" font-family="Arial, sans-serif" font-size="13px" fill="#5f5e5a">会員関連補助ツール（Mockoon連携）</text>
+<circle cx="680" cy="17" r="5" fill="#b4b2a9" />
+<circle cx="660" cy="17" r="5" fill="#b4b2a9" />
+<circle cx="640" cy="17" r="5" fill="#b4b2a9" />
+
+<text x="16" y="52" font-family="Arial, sans-serif" font-size="11px" fill="#888780">各列＝エンドポイント／セルをダブルクリックで即時反映</text>
+
+<rect x="16" y="62" width="132" height="28" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="82" y="80" font-family="Arial, sans-serif" font-size="12px" text-anchor="middle" fill="#2c2c2a">会員照会</text>
+<rect x="150" y="62" width="132" height="28" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="216" y="80" font-family="Arial, sans-serif" font-size="12px" text-anchor="middle" fill="#2c2c2a">ポイント加算</text>
+<rect x="284" y="62" width="132" height="28" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="350" y="80" font-family="Arial, sans-serif" font-size="12px" text-anchor="middle" fill="#2c2c2a">ポイント減算</text>
+<rect x="418" y="62" width="132" height="28" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="484" y="80" font-family="Arial, sans-serif" font-size="12px" text-anchor="middle" fill="#2c2c2a">クーポン付与</text>
+<rect x="552" y="62" width="132" height="28" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="618" y="80" font-family="Arial, sans-serif" font-size="12px" text-anchor="middle" fill="#2c2c2a">会員登録</text>
+
+<rect x="16" y="90" width="132" height="26" fill="#85b7eb" />
+<text x="24" y="107" font-family="Arial, sans-serif" font-size="12px" fill="#042c53">000 正常終了</text>
+<rect x="16" y="116" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="24" y="133" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">101 会員なし</text>
+<rect x="16" y="142" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="24" y="159" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">500 内部エラー</text>
+<rect x="16" y="168" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="24" y="185" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">503 タイムアウト</text>
+
+<rect x="150" y="90" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="158" y="107" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">000 正常終了</text>
+<rect x="150" y="116" width="132" height="26" fill="#85b7eb" />
+<text x="158" y="133" font-family="Arial, sans-serif" font-size="12px" fill="#042c53">204 残高不足</text>
+<rect x="150" y="142" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="158" y="159" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">500 内部エラー</text>
+<rect x="150" y="168" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="158" y="185" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">503 タイムアウト</text>
+
+<rect x="284" y="90" width="132" height="26" fill="#85b7eb" />
+<text x="292" y="107" font-family="Arial, sans-serif" font-size="12px" fill="#042c53">000 正常終了</text>
+<rect x="284" y="116" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="292" y="133" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">204 残高不足</text>
+<rect x="284" y="142" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="292" y="159" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">500 内部エラー</text>
+<rect x="284" y="168" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="292" y="185" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">503 タイムアウト</text>
+
+<rect x="418" y="90" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="426" y="107" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">000 正常終了</text>
+<rect x="418" y="116" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="426" y="133" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">301 期限切れ</text>
+<rect x="418" y="142" width="132" height="26" fill="#85b7eb" />
+<text x="426" y="159" font-family="Arial, sans-serif" font-size="12px" fill="#042c53">302 発行上限</text>
+<rect x="418" y="168" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="426" y="185" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">500 内部エラー</text>
+
+<rect x="552" y="90" width="132" height="26" fill="#85b7eb" />
+<text x="560" y="107" font-family="Arial, sans-serif" font-size="12px" fill="#042c53">000 正常終了</text>
+<rect x="552" y="116" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="560" y="133" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">102 重複登録</text>
+<rect x="552" y="142" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="560" y="159" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">500 内部エラー</text>
+<rect x="552" y="168" width="132" height="26" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="560" y="185" font-family="Arial, sans-serif" font-size="12px" fill="#2c2c2a">503 タイムアウト</text>
+
+<line x1="16" y1="200" x2="684" y2="200" stroke="#d3d1c7" />
+<text x="16" y="222" font-family="Arial, sans-serif" font-size="11px" fill="#888780">青いセル＝現在Mockoonに反映中のコード。行数はエンドポイントごとに可変。</text>
+
+<rect x="16" y="410" width="120" height="30" rx="4" fill="#ffffff" stroke="#b4b2a9" stroke-width="0.5" />
+<text x="76" y="430" font-family="Arial, sans-serif" font-size="12px" text-anchor="middle" fill="#2c2c2a">全て正常に戻す</text>
+</svg>

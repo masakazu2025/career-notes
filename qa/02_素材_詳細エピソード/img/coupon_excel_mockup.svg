@@ -1,0 +1,97 @@
+<svg viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>クーポン設定管理Excelのイメージ</title>
+<desc>反映フラグ列を先頭に持つ、クーポン設定用Excelシートのイメージ。フラグがONの行のみツールで反映される</desc>
+
+<rect x="0" y="0" width="640" height="320" rx="6" fill="#f4f3ee" />
+
+<rect x="0" y="0" width="640" height="30" rx="6" fill="#97c459" />
+<text x="14" y="20" font-family="Arial, sans-serif" font-size="12px" fill="#173404" font-weight="500">coupon_master_202607.xlsx － 値引きクーポン</text>
+
+<rect x="0" y="294" width="640" height="26" fill="#ffffff" />
+<rect x="8" y="298" width="110" height="20" rx="3" fill="#85b7eb" />
+<text x="63" y="312" font-family="Arial, sans-serif" font-size="11px" text-anchor="middle" fill="#042c53">値引きクーポン</text>
+<rect x="122" y="298" width="110" height="20" rx="3" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="177" y="312" font-family="Arial, sans-serif" font-size="11px" text-anchor="middle" fill="#5f5e5a">割引率クーポン</text>
+<rect x="236" y="298" width="100" height="20" rx="3" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="286" y="312" font-family="Arial, sans-serif" font-size="11px" text-anchor="middle" fill="#5f5e5a">プレゼント券</text>
+
+<rect x="0" y="30" width="36" height="20" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<rect x="36" y="30" width="60" height="20" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="66" y="44" font-family="Arial, sans-serif" font-size="10px" text-anchor="middle" fill="#5f5e5a">A</text>
+<rect x="96" y="30" width="110" height="20" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="151" y="44" font-family="Arial, sans-serif" font-size="10px" text-anchor="middle" fill="#5f5e5a">B</text>
+<rect x="206" y="30" width="90" height="20" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="251" y="44" font-family="Arial, sans-serif" font-size="10px" text-anchor="middle" fill="#5f5e5a">C</text>
+<rect x="296" y="30" width="90" height="20" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="341" y="44" font-family="Arial, sans-serif" font-size="10px" text-anchor="middle" fill="#5f5e5a">D</text>
+<rect x="386" y="30" width="110" height="20" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="441" y="44" font-family="Arial, sans-serif" font-size="10px" text-anchor="middle" fill="#5f5e5a">E</text>
+
+<rect x="0" y="50" width="36" height="24" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="18" y="66" font-family="Arial, sans-serif" font-size="10px" text-anchor="middle" fill="#5f5e5a">1</text>
+<rect x="36" y="50" width="60" height="24" fill="#efa953" />
+<text x="66" y="66" font-family="Arial, sans-serif" font-size="11px" text-anchor="middle" fill="#412402">反映フラグ</text>
+<rect x="96" y="50" width="110" height="24" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="106" y="66" font-family="Arial, sans-serif" font-size="11px" fill="#5f5e5a">クーポンID</text>
+<rect x="206" y="50" width="90" height="24" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="216" y="66" font-family="Arial, sans-serif" font-size="11px" fill="#5f5e5a">割引額</text>
+<rect x="296" y="50" width="90" height="24" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="306" y="66" font-family="Arial, sans-serif" font-size="11px" fill="#5f5e5a">対象商品</text>
+<rect x="386" y="50" width="110" height="24" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="396" y="66" font-family="Arial, sans-serif" font-size="11px" fill="#5f5e5a">有効期限</text>
+
+<rect x="0" y="74" width="36" height="24" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="18" y="90" font-family="Arial, sans-serif" font-size="10px" text-anchor="middle" fill="#5f5e5a">2</text>
+<rect x="36" y="74" width="60" height="24" fill="#eaf3de" />
+<text x="66" y="90" font-family="Arial, sans-serif" font-size="11px" text-anchor="middle" fill="#3b6d11">TRUE</text>
+<rect x="96" y="74" width="110" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="106" y="90" font-family="Arial, sans-serif" font-size="11px" fill="#2c2c2a">CP-0231</text>
+<rect x="206" y="74" width="90" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="216" y="90" font-family="Arial, sans-serif" font-size="11px" fill="#2c2c2a">300円</text>
+<rect x="296" y="74" width="90" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="306" y="90" font-family="Arial, sans-serif" font-size="11px" fill="#2c2c2a">全品</text>
+<rect x="386" y="74" width="110" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="396" y="90" font-family="Arial, sans-serif" font-size="11px" fill="#2c2c2a">2026/08/31</text>
+
+<rect x="0" y="98" width="36" height="24" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="18" y="114" font-family="Arial, sans-serif" font-size="10px" text-anchor="middle" fill="#5f5e5a">3</text>
+<rect x="36" y="98" width="60" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="66" y="114" font-family="Arial, sans-serif" font-size="11px" text-anchor="middle" fill="#5f5e5a">FALSE</text>
+<rect x="96" y="98" width="110" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="106" y="114" font-family="Arial, sans-serif" font-size="11px" fill="#5f5e5a">CP-0230</text>
+<rect x="206" y="98" width="90" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="216" y="114" font-family="Arial, sans-serif" font-size="11px" fill="#5f5e5a">200円</text>
+<rect x="296" y="98" width="90" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="306" y="114" font-family="Arial, sans-serif" font-size="11px" fill="#5f5e5a">飲料のみ</text>
+<rect x="386" y="98" width="110" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="396" y="114" font-family="Arial, sans-serif" font-size="11px" fill="#5f5e5a">2026/07/31</text>
+
+<rect x="0" y="122" width="36" height="24" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="18" y="138" font-family="Arial, sans-serif" font-size="10px" text-anchor="middle" fill="#5f5e5a">4</text>
+<rect x="36" y="122" width="60" height="24" fill="#eaf3de" />
+<text x="66" y="138" font-family="Arial, sans-serif" font-size="11px" text-anchor="middle" fill="#3b6d11">TRUE</text>
+<rect x="96" y="122" width="110" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="106" y="138" font-family="Arial, sans-serif" font-size="11px" fill="#2c2c2a">CP-0232</text>
+<rect x="206" y="122" width="90" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="216" y="138" font-family="Arial, sans-serif" font-size="11px" fill="#2c2c2a">500円</text>
+<rect x="296" y="122" width="90" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="306" y="138" font-family="Arial, sans-serif" font-size="11px" fill="#2c2c2a">全品</text>
+<rect x="386" y="122" width="110" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="396" y="138" font-family="Arial, sans-serif" font-size="11px" fill="#2c2c2a">2026/08/31</text>
+
+<rect x="0" y="146" width="36" height="24" fill="#ffffff" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="18" y="162" font-family="Arial, sans-serif" font-size="10px" text-anchor="middle" fill="#5f5e5a">5</text>
+<rect x="36" y="146" width="60" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="66" y="162" font-family="Arial, sans-serif" font-size="11px" text-anchor="middle" fill="#5f5e5a">FALSE</text>
+<rect x="96" y="146" width="110" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="106" y="162" font-family="Arial, sans-serif" font-size="11px" fill="#5f5e5a">CP-0229</text>
+<rect x="206" y="146" width="90" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="216" y="162" font-family="Arial, sans-serif" font-size="11px" fill="#5f5e5a">150円</text>
+<rect x="296" y="146" width="90" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="306" y="162" font-family="Arial, sans-serif" font-size="11px" fill="#5f5e5a">菓子のみ</text>
+<rect x="386" y="146" width="110" height="24" fill="#f4f3ee" stroke="#d3d1c7" stroke-width="0.5" />
+<text x="396" y="162" font-family="Arial, sans-serif" font-size="11px" fill="#5f5e5a">2026/07/15</text>
+
+<line x1="0" y1="170" x2="640" y2="170" stroke="#d3d1c7" />
+<text x="10" y="188" font-family="Arial, sans-serif" font-size="10px" fill="#888780">※反映フラグがTRUEの行のみ、ツール実行時にデータベースへ書き込まれる</text>
+</svg>
